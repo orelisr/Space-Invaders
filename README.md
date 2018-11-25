@@ -2,7 +2,7 @@
 A project in "OOP" course.<br/>
 Space Invaders game in Java.<br/>
 The game is based on the OOP principles learned throghout the course.<br/>
-The game supports a "HighScrores" file, and levels with an increasing order of difficulty.<br/>
+The game supports a "HighScrores" file, and levels with increasing difficulty.<br/>
 <br/><br/>
 Screenshots:
 <br/><br/>
